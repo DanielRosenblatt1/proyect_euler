@@ -50,8 +50,6 @@ int main(){
     
     }
 
-    std::
-
     for(auto j: primes){
         if(j < 2000000){
             sum += j;
